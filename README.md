@@ -9,3 +9,7 @@
 - `.github/workflows/pages.yml`: GitHub Pages 自动部署工作流
 
 链接到公开 GitHub 主页。
+
+## 发布
+
+这个提交用于触发一次 GitHub Pages 部署。
