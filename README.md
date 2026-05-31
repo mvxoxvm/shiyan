@@ -8,4 +8,4 @@
 - `styles.css`: 页面样式
 - `.github/workflows/pages.yml`: GitHub Pages 自动部署工作流
 
-页面不包含私人邮箱，只链接到公开 GitHub 主页。
+链接到公开 GitHub 主页。
